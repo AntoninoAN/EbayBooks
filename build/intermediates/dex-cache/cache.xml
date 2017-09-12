@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b169a30d9154f2a101d27d118b54786ffff7bc8">
+        <dex dex="/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d5fd268c8097d2925f6ae2ef2fcc64343ef0a508/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_831a8c81d389e2da712f2c218c5835ef6c556985/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.0_1bb9e81f964f7239e6e39cb6ccd7583d72003b9f/classes.dex" />
+    </item>
+
+</items>

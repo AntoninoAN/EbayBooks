@@ -1,0 +1,4 @@
+#Tue Sep 12 10:14:07 EDT 2017
+base.0=/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

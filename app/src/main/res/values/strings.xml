@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EbayBooks</string>
+    <string name="tv_hint_title">TITLE</string>
+    <string name="tv_hint_author">AUTHOR</string>
+</resources>

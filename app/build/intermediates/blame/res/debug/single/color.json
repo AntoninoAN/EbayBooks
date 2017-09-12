@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/W6d3ex01/EbayBooks/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]
